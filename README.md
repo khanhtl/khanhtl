@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Khanh
+### 👋 Hi there, I'm Khanh, Sofware Engineer
 
 
 - 🔭 I’m currently working on [MISA JSC](https://www.misa.vn/)
-- 🌱 I’m currently learning DEV OPS
+- 🌱 I’m currently work as Devops Engineer
 - ⚡ My blog: [Coder Gen Z](https://codergenz.net/)
 
 <a href="https://app.daily.dev/khanhtl">
