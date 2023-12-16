@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on [MISA JSC](https://www.misa.vn/)
-- 🌱 I’m currently work as Devops Engineer
+- 🌱 I’m Software Engineer
 - ⚡ My blog: [Coder Gen Z](https://codergenz.net/)
 
 <a href="https://app.daily.dev/khanhtl">
