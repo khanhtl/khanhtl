@@ -1,15 +1,15 @@
-### 👋 Hi there, I'm Khanh, Sofware Engineer
+## 👋 Hi there, I'm Khanh
 
 
 - 🔭 I’m Software Engineer at [MISA JSC](https://www.misa.vn/)
 - ⚡ My blog: [Coder Gen Z](https://codergenz.net/)
-###  🤝 Connect with me:
+##  🤝 Connect with me:
 
 [<img align="left" alt="khanhtl | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/talongkhanh/)
 [<img align="left" alt="khanhtl | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khanhtl/)
 <br />
 <br />
-### 👨‍💻 Languages and Tools
+## 👨‍💻 Languages and Tools
 
 <img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -25,4 +25,5 @@
 <br />
 <br /> 
 <a href="https://app.daily.dev/khanhtl">
+<br /> 
 <img src="https://api.daily.dev/devcards/355e1c48f2ee400ba41a6aae1480a2d1.png?r=j6e" width="200" alt="Khánh Tạ Long's Dev Card"/></a>
