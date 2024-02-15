@@ -25,9 +25,3 @@
 <img title="Kubernetes" align="left" alt="kubernetes"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img title="Helm" align="left" alt="helm"height="32" width="32" src="https://raw.githubusercontent.com/kturcios/helm-ts/master/helm-icon-color.png" />
 <img title="Argo CD" align="left" alt="argo cd"height="32" width="32" src="https://avatars.githubusercontent.com/u/30269780?s=200&v=4" />
-
-<br />
-<br /> 
-<a href="https://app.daily.dev/khanhtl">
-<br /> 
-<img src="https://api.daily.dev/devcards/355e1c48f2ee400ba41a6aae1480a2d1.png?r=j6e" width="200" alt="Khánh Tạ Long's Dev Card"/></a>
