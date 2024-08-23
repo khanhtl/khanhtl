@@ -11,9 +11,6 @@
 <br />
 ## 👨‍💻 Languages and Tools
 
-<img title="HTML 5" align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img title="CSS 3" align="left" alt="CSS3" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img title="SCSS" align="left" alt="Sass" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img title="Javascript" align="left" alt="JS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img title="Typescript" align="left" alt="Typescript"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img title="Angular" align="left" alt="Angular"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
@@ -23,5 +20,3 @@
 <img title="Mysql" align="left" alt="mysql"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img title="Docker" align="left" alt="docker"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img title="Kubernetes" align="left" alt="kubernetes"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img title="Helm" align="left" alt="helm"height="32" width="32" src="https://raw.githubusercontent.com/kturcios/helm-ts/master/helm-icon-color.png" />
-<img title="Argo CD" align="left" alt="argo cd"height="32" width="32" src="https://avatars.githubusercontent.com/u/30269780?s=200&v=4" />
